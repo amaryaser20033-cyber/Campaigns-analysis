@@ -1,4 +1,7 @@
-# Marketing Campaign Performance Analysis
+# Campaigns Performance Analysis
+
+![Dashboard](Campaigns.png)
+
 ## Project Objective
 
 This project explores the performance of marketing campaigns across different channels and objectives. The goal was to understand how campaigns contribute to customer engagement, conversions, orders, and revenue. The analysis focuses on campaign reach, customer behavior, conversion funnels, channel effectiveness, and revenue generation.
@@ -8,18 +11,16 @@ The project was completed as part of my Data Analyst portfolio to demonstrate sk
 ---
 ## Dataset 
 
-Note: Due to GitHub file size limitations, project fileis hosted on Google Drive. The Drive preview may appear empty for large files; please download to view them correctly.
-https://drive.google.com/file/d/1_U24CaKmy8MW0bAsiBTmRzqkEQpUJsZ6/view?usp=sharing
+Note: Due to GitHub file size limitations, project and dataset fileis hosted on Google Drive. The Drive preview may appear empty for large files, please download to view them correctly.
+https://drive.google.com/file/d/1mPepVpsphLcjG5Jj_Gkg3ll4ogVSldQu/view?usp=sharing
 
 The dataset contains marketing campaign activity collected from customer interactions and transactions. It includes information about campaign performance, customer engagement, conversion events, purchases, and revenue generation.
-
-The data is organized across multiple related tables, allowing analysis from different perspectives such as campaign effectiveness, channel performance, customer conversion behavior, and revenue impact. The dataset supports end-to-end marketing analytics and performance measurement.
 
 ---
 
 ## Tools Used
 
-* SQL Server (T-SQL) for data extraction, joins, aggregations, and KPI calculations
+* SQL Server for data extraction, joins, aggregations, and KPI calculations
 * Power BI for dashboard development and interactive visualizations
 
 ---
@@ -136,38 +137,6 @@ This helps identify the most effective channels for customer acquisition and rev
 
 ---
 
-## Dashboard
-
-The Power BI dashboard was designed to provide an interactive overview of campaign performance and marketing effectiveness.
-
-### KPIs Included
-
-* Total Campaigns
-* Sessions
-* Events
-* Revenue
-* Orders
-* Customers
-* Buyers
-* Conversion Rate
-
-### Visualizations Included
-
-* Top Campaigns by Buyers & Revenue
-* Customer & Revenue Trends
-* Top Campaigns by Reach
-* Objective Performance
-* Top Campaigns by Events
-* Customer Conversion Funnel
-* Channel Performance Analysis
-* Campaign Performance Tables
-
-### Dashboard Preview
-
-![Marketing Campaign Dashboard](campaigns-dashboard.png)
-
----
-
 ## Key Insights
 
 1. The campaigns generated over $6.7 million in revenue from more than 82,000 orders.
@@ -188,38 +157,8 @@ The Power BI dashboard was designed to provide an interactive overview of campai
 
 ---
 
-## Limitations
-
-* Marketing spend and campaign costs were not included, so ROI and profitability could not be calculated.
-* Customer demographics were not available for segmentation analysis.
-* The dataset does not include attribution models to evaluate multi-touch customer journeys.
-* External factors such as seasonality, promotions, or competitor activities were not included.
-* The analysis focuses on historical performance and does not include predictive forecasting.
-
----
-
 ## Conclusion
 
 This project provides a comprehensive analysis of marketing campaign performance by examining customer engagement, conversion behavior, revenue generation, and channel effectiveness.
 
 Using SQL for data exploration and Power BI for visualization, the project demonstrates an end-to-end analytics workflow from raw marketing data to actionable business insights. The analysis helps identify successful campaigns, effective channels, and opportunities to improve customer conversion and marketing performance.
-
----
-
-## Skills Demonstrated
-
-* SQL Joins
-* Common Table Expressions (CTEs)
-* KPI Development
-* Data Cleaning
-* Data Modeling
-* Calendar Table Creation
-* Exploratory Data Analysis (EDA)
-* Marketing Analytics
-* Funnel Analysis
-* Conversion Rate Analysis
-* Revenue Analysis
-* Power BI Dashboard Development
-* Data Visualization
-* Business Insight Generation
-* Data Storytelling
