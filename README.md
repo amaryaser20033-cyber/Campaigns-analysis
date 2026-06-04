@@ -1,5 +1,4 @@
 # Marketing Campaign Performance Analysis
-https://drive.google.com/file/d/1_U24CaKmy8MW0bAsiBTmRzqkEQpUJsZ6/view?usp=sharing
 ## Project Objective
 
 This project explores the performance of marketing campaigns across different channels and objectives. The goal was to understand how campaigns contribute to customer engagement, conversions, orders, and revenue. The analysis focuses on campaign reach, customer behavior, conversion funnels, channel effectiveness, and revenue generation.
@@ -7,12 +6,11 @@ This project explores the performance of marketing campaigns across different ch
 The project was completed as part of my Data Analyst portfolio to demonstrate skills in SQL data analysis, KPI development, business reporting, and dashboard creation.
 
 ---
-https://docs.google.com/spreadsheets/d/1N0Qe7jIJaJXjFt4WND3cK4QVAmpF8gKc/edit?usp=sharing&ouid=110724832138354651073&rtpof=true&sd=true
 ## Dataset 
 
-Due to GitHub file size limitations, the dataset is available here:
+Note: Due to GitHub file size limitations, project fileis hosted on Google Drive. The Drive preview may appear empty for large files; please download to view them correctly.
+https://drive.google.com/file/d/1_U24CaKmy8MW0bAsiBTmRzqkEQpUJsZ6/view?usp=sharing
 
-https://drive.google.com/file/d/1GQCbZ9dBxnkDC6eeXom9DL7-GMy3u1h0/view?usp=sharing
 The dataset contains marketing campaign activity collected from customer interactions and transactions. It includes information about campaign performance, customer engagement, conversion events, purchases, and revenue generation.
 
 The data is organized across multiple related tables, allowing analysis from different perspectives such as campaign effectiveness, channel performance, customer conversion behavior, and revenue impact. The dataset supports end-to-end marketing analytics and performance measurement.
