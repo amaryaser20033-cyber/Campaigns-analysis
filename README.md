@@ -7,7 +7,7 @@ This project explores the performance of marketing campaigns across different ch
 The project was completed as part of my Data Analyst portfolio to demonstrate skills in SQL data analysis, KPI development, business reporting, and dashboard creation.
 
 ---
-
+https://docs.google.com/spreadsheets/d/1N0Qe7jIJaJXjFt4WND3cK4QVAmpF8gKc/edit?usp=sharing&ouid=110724832138354651073&rtpof=true&sd=true
 ## Dataset 
 
 Due to GitHub file size limitations, the dataset is available here:
