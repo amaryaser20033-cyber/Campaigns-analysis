@@ -11,7 +11,8 @@ The project was completed as part of my Data Analyst portfolio to demonstrate sk
 ## Dataset 
 
 Due to GitHub file size limitations, the dataset is available here:
-https://drive.google.com/file/d/1hhL-9PplhPModELINZ1m-wfWrdxJWryX/view?usp=sharing
+
+https://drive.google.com/file/d/1GQCbZ9dBxnkDC6eeXom9DL7-GMy3u1h0/view?usp=sharing
 The dataset contains marketing campaign activity collected from customer interactions and transactions. It includes information about campaign performance, customer engagement, conversion events, purchases, and revenue generation.
 
 The data is organized across multiple related tables, allowing analysis from different perspectives such as campaign effectiveness, channel performance, customer conversion behavior, and revenue impact. The dataset supports end-to-end marketing analytics and performance measurement.
