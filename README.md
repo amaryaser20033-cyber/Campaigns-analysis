@@ -11,7 +11,7 @@ The project was completed as part of my Data Analyst portfolio to demonstrate sk
 ---
 ## Dataset 
 
-Note: Due to GitHub file size limitations, project and dataset fileis hosted on Google Drive. The Drive preview may appear empty for large files, please download to view them correctly.
+Note: Due to GitHub file size limitations, project file is hosted on Google Drive. The Drive preview may appear empty for large files, please download to view them correctly.
 https://drive.google.com/file/d/1mPepVpsphLcjG5Jj_Gkg3ll4ogVSldQu/view?usp=sharing
 
 The dataset contains marketing campaign activity collected from customer interactions and transactions. It includes information about campaign performance, customer engagement, conversion events, purchases, and revenue generation.
